@@ -1,7 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "Intro_to_HTML"
+			"path": "2_Intro_to_HTML"
+		},
+		{
+			"path": "3_Intermediate HTML"
+		},
+		{
+			"path": "4_Multi-Page Websites"
 		}
 	],
 	"settings": {}
